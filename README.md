@@ -1,5 +1,5 @@
 # portfolio
-main portfolio page  
+:computer: **main portfolio page**  
 
 My portfolio looks like **[this](http://chizchiz.dothome.co.kr/portfolio.html)** on web (click this)    
 
